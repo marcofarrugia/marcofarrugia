@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcofarrugia
-- 👀 I’m interested in Artificial Intellicence, specifically machine learning
+- 👀 I’m interested in Artificial Intelligence, specifically machine learning
 - 🌱 I’m currently learning techniques to improve underwater computer vision
 - 📫 How to reach me marco.farrugia@gmail.com
 
